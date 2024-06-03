@@ -10,6 +10,15 @@ Data Acquisition System (DAS) jointly developed by `MIT Haystack Observatory
 <http://www.haystack.mit.edu/>`_ and `NASA Goddard Space Flight Center High End
 Computer Network Team <http://science.gsfc.nasa.gov/606.1/HECN.html>`_.
 
+Mark 6 availability:
+
+- Purchase full Mark 6 16Gbps system from Conduant Corp
+- SSD OS disk available as option
+- Upgrade your existing Mark 5 system to Mark 6
+- Purchase Mark 6 disk modules (with or without disks)
+- Upgrade existing Mark 5 SATA modules with upgrade kit from Conduant
+- For quotes or consultation contact Contact Conduant Corp at https://conduant.com/mark-6-vlbi-data-recording-system/
+
 Features
 --------
 
